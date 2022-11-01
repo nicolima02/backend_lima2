@@ -1,0 +1,20 @@
+[
+	{
+		"title": "cartel azul",
+		"price": 500,
+		"thumbnail": "https://neondesign.netlify.app/img/Trabajo2.jpg",
+		"id": 1
+	},
+	{
+		"title": "cartel naranja",
+		"price": 1000,
+		"thumbnail": "https://neondesign.netlify.app/img/Trabajo15.jpg",
+		"id": 2
+	},
+	{
+		"title": "cartel violeta",
+		"price": 1500,
+		"thumbnail": "https://neondesign.netlify.app/img/Trabajo3.jpg",
+		"id": 3
+	}
+]

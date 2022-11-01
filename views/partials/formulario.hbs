@@ -1,0 +1,26 @@
+<h1 class="textXL">Form agregar productos</h1>
+<form action="/productos" method="post">
+    <ul class="lista">
+        <li>
+            <legend>
+                <label for="title">Nombre: </label>
+                <input type="text" name="title" id="title">
+            </legend>
+        </li>
+        <li>
+            <legend>   
+                <label for="price">Precio:</label>
+                <input type="number" name="price" id="price">
+            </legend>
+        </li>
+        <li>
+            <legend>
+                <label for="thumbnail">URL imagen:</label>
+                <input type="text" name="thumbnail" id="thumbnail">
+            </legend>
+        </li>
+        <li>
+            <a href="/"><button type="submit">Enviar</button></a>
+        </li>
+    </ul>
+</form>
